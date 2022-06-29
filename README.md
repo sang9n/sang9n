@@ -21,12 +21,16 @@
 
 
 <h3 align="center"> 🏆 Awards 🏆</h3>
-<h5 align="center">🏅 2021.05.18 : EU-Korea Intelligent IoT oneM2M Hackathon - 4th Prize</h5>
 
-<!-- [네이버 바로가기](http://www.naver.com/) -->
+<h5 align="center">🏅 2021.05.18 : 
+  [EU-Korea Intelligent IoT oneM2M Hackathon]
+  (https://github.com/sang9n/Last-Mile-Delivery-Using-Raspberrypi-RC-Car) 
+  - 4th Prize</h5>
 
 
-<h5 align="center">🥇 2021.11.17 : International oneM2M Hackathon (Extension of 5th Mobius developer event)- 1st Prize</h5>
+<h5 align="center">🥇 2021.11.17 : 
+  [International oneM2M Hackathon (Extension of 5th Mobius developer event)](https://www.hackster.io/cssrj/onem2m-autonomous-cooperative-smart-delivery-system-7040d6)
+  - 1st Prize</h5>
 
 
 <h3 align="center"> 📞 Contact 📞</h3>
