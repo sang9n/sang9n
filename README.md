@@ -18,7 +18,7 @@
 <h5 align="center">✓ 2021.01.01 ~ 2022.05.01 : 학부연구생 인턴</h5>
 <h5 align="center">✓ 2022.06.27 ~ 2022.08.05 : SKT AI Challenger</h5>
 <h5 align="center">🙂 2022.07.08 ~            : 현대자동차 H-mobility Class</h5>
-<h5 align="center">🙂 2022.08.08 ~ 2022.11.25 : 만도 INTERN </h5>
+<h5 align="center">🙂 2022.08.08 ~ 2022.11.25 : 만도 인턴 </h5>
 
 <h3 align="center"> 🏆 Awards 🏆</h3>
 
